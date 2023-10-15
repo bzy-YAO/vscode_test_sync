@@ -1,0 +1,16 @@
+git config --global user.name "bzy-YAO"
+git config --global user.email "58061984bzy-YAO@users.noreply.github.com"
+
+ssh-keygen -t rsa -C "58061984bzy-YAO@users.noreply.github.com"
+
+git clone https://github.com/bzy-YAO/vsfile-test.git D:/codefile/vscode
+
+https://github.com/bzy-YAO/vsfile-test.git
+
+$ git add --all
+$ git commit -m "提交信息"
+$ git remote add origin 'https://github.com/bzy-YAO/vscodeperson_test_sync.git'
+$ git push -u origin test
+
+
+58061984+bzy-YAO@users.noreply.github.com
